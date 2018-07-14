@@ -1,0 +1,2 @@
+# ErrorCompTool
+Hello Git.
